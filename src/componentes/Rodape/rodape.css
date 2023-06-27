@@ -1,0 +1,17 @@
+.footer{
+    background-color: #6278F7;
+    color: #FFF;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.sociais{
+    display: flex;
+    gap: 30px;
+}
